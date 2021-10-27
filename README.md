@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yogesh4120
 - 👀 I’m interested in software developing and fullstack development
 - 🌱 I’m currently learning java and bootstrap  
-- 💞️ I’m looking to collaborate on anudip foundation
 - 📫 How to reach me - yogeshn4120@gmail.com
 
 <!---
