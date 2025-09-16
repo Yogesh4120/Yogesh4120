@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Yogesh4120
-- 👀 I’m interested in software developing and fullstack development
-- 🌱 I’m currently learning java and bootstrap  
+- 👋 Hi, I’m Yogesh N
+- 👀 I’m interested in Frontend Developer
 - 📫 How to reach me - yogeshn4120@gmail.com
 
 <!---
